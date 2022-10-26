@@ -1,4 +1,4 @@
-#Basic Linear Search
+##Basic Linear Search
 
 # Defines function that searches through array
 def linearsearch(arr, x): # Passes in target as x, and the array
